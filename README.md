@@ -31,3 +31,7 @@ create file .bowerrc
 >bower install --save bootstrap
 
 Get bootstrap theme from https://bootswatch.com/cyborg/bootstrap.min.css and put it to /client/css
+
+### Creat Heroku Accout for free - www.heroku.com
+
+Install heroku toolbelt from toolbelt.heroku.com (>49 Mb)
