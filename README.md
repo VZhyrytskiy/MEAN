@@ -18,13 +18,9 @@ check version
 
 Community Server (>100 Mb)
 
-### Install AngularJS
+### Install Depndencies (AngularJS, Bootstrap)
 
-create file .bowerrc
-
-> bower init
-
-> bower install --save angular
+> npm install
 
 ### Install Bootstrap
 
@@ -35,3 +31,6 @@ Get bootstrap theme from https://bootswatch.com/cyborg/bootstrap.min.css and put
 ### Create Heroku Accout for free - www.heroku.com
 
 Install heroku toolbelt from toolbelt.heroku.com (>49 Mb)
+
+from git bash
+> heroku login
