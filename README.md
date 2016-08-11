@@ -25,3 +25,7 @@ create file .bowerrc
 > bower init
 
 > bower install --save angular
+
+### Install Bootstrap
+
+>bower install --save bootstrap
