@@ -30,4 +30,4 @@ create file .bowerrc
 
 >bower install --save bootstrap
 
-Get bootstrap theme from https://bootswatch.com/cyborg/bootstrap.min.css and put it to /client/vendor/bootstrap-cyborg-theme
+Get bootstrap theme from https://bootswatch.com/cyborg/bootstrap.min.css and put it to /client/css
