@@ -2,7 +2,7 @@
 
 ## Installing the stack
 
-1. Install node.js - https://nodejs.org/en/
+### Install node.js - https://nodejs.org/en/
 
 check version
 
@@ -10,6 +10,6 @@ check version
 
 >npm --version
 
-2. Install Express Generator 
+### Install Express Generator 
 
 > npm install -g express-generator
