@@ -34,3 +34,5 @@ Install heroku toolbelt from toolbelt.heroku.com (>49 Mb)
 
 from git bash
 > heroku login
+
+If you get a problem, you have to add heroku to PATH variable. Go to My Computer, right click, select Properties - Advanced System Settings - Environment Variables
